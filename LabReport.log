@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.3.23)  30 SEP 2020 21:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.3.23)  30 SEP 2020 21:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -993,20 +993,20 @@ File: english.lbx 2017/12/19 v3.10 biblatex localization (PK/JW/AB)
 (./LabReport.aux)
 \openout1 = `LabReport.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1025,7 +1025,7 @@ LaTeX Font Info:    ... okay on input line 24.
 \c@lstlisting=\count324
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 24.
+(lastpage)             ! on input line 25.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1062,7 +1062,7 @@ Package lastpage Info: Please have a look at the pageslts package at
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box36
-Package hyperref Info: Link coloring OFF on input line 24.
+Package hyperref Info: Link coloring OFF on input line 25.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -1071,9 +1071,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count325
 )
-LaTeX Info: Redefining \ref on input line 24.
-LaTeX Info: Redefining \pageref on input line 24.
-LaTeX Info: Redefining \nameref on input line 24.
+LaTeX Info: Redefining \ref on input line 25.
+LaTeX Info: Redefining \pageref on input line 25.
+LaTeX Info: Redefining \nameref on input line 25.
 
 (./LabReport.out) (./LabReport.out)
 \@outlinefile=\write5
@@ -1096,202 +1096,202 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'LabReport.bbl' found.
  (./LabReport.bbl)
-Package biblatex Info: Reference section=0 on input line 24.
-Package biblatex Info: Reference segment=0 on input line 24.
+Package biblatex Info: Reference section=0 on input line 25.
+Package biblatex Info: Reference segment=0 on input line 25.
 <shell.png, id=188, 1284.8pt x 1018.80624pt>
 File: shell.png Graphic file (type png)
 <use shell.png>
-Package pdftex.def Info: shell.png  used on input line 25.
+Package pdftex.def Info: shell.png  used on input line 26.
 (pdftex.def)             Requested size: 108.405pt x 85.95222pt.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./shell.png>]
-<img/system_ov.png, id=204, 850.17625pt x 394.47375pt>
+<img/system_ov.png, id=205, 850.17625pt x 394.47375pt>
 File: img/system_ov.png Graphic file (type png)
 <use img/system_ov.png>
-Package pdftex.def Info: img/system_ov.png  used on input line 45.
+Package pdftex.def Info: img/system_ov.png  used on input line 48.
 (pdftex.def)             Requested size: 361.34999pt x 167.66417pt.
-<img/sysmem.png, id=205, 833.1125pt x 533.995pt>
+<img/sysmem.png, id=206, 833.1125pt x 533.995pt>
 File: img/sysmem.png Graphic file (type png)
 <use img/sysmem.png>
-Package pdftex.def Info: img/sysmem.png  used on input line 51.
+Package pdftex.def Info: img/sysmem.png  used on input line 54.
 (pdftex.def)             Requested size: 433.62pt x 277.93974pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.54 
+l.57 
       [1 <./img/system_ov.png>]
-<img/cpuov.png, id=219, 2253.41875pt x 693.59125pt>
+<img/cpuov.png, id=220, 2253.41875pt x 693.59125pt>
 File: img/cpuov.png Graphic file (type png)
 <use img/cpuov.png>
-Package pdftex.def Info: img/cpuov.png  used on input line 59.
+Package pdftex.def Info: img/cpuov.png  used on input line 62.
 (pdftex.def)             Requested size: 505.89pt x 155.70204pt.
 
-Overfull \hbox (28.90756pt too wide) in paragraph at lines 59--60
+Overfull \hbox (28.90756pt too wide) in paragraph at lines 62--63
  [][] 
  []
 
-<img/dsf.png, id=220, 989.6975pt x 2545.51pt>
+<img/dsf.png, id=221, 989.6975pt x 2545.51pt>
 File: img/dsf.png Graphic file (type png)
 <use img/dsf.png>
-Package pdftex.def Info: img/dsf.png  used on input line 65.
+Package pdftex.def Info: img/dsf.png  used on input line 68.
 (pdftex.def)             Requested size: 252.94499pt x 650.55302pt.
 [2 <./img/sysmem.png> <./img/cpuov.png>]
 Overfull \vbox (28.22307pt too high) has occurred while \output is active []
 
 
 [3 <./img/dsf.png>]
-<img/alu.png, id=237, 325.215pt x 311.1625pt>
+<img/alu.png, id=238, 325.215pt x 311.1625pt>
 File: img/alu.png Graphic file (type png)
 <use img/alu.png>
-Package pdftex.def Info: img/alu.png  used on input line 83.
+Package pdftex.def Info: img/alu.png  used on input line 86.
 (pdftex.def)             Requested size: 144.54pt x 138.29832pt.
-LaTeX Font Info:    Try loading font information for U+msa on input line 93.
+LaTeX Font Info:    Try loading font information for U+msa on input line 96.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 93.
+LaTeX Font Info:    Try loading font information for U+msb on input line 96.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<img/simpleAddr.png, id=238, 356.33125pt x 233.87375pt>
+<img/simpleAddr.png, id=239, 356.33125pt x 233.87375pt>
 File: img/simpleAddr.png Graphic file (type png)
 <use img/simpleAddr.png>
-Package pdftex.def Info: img/simpleAddr.png  used on input line 132.
+Package pdftex.def Info: img/simpleAddr.png  used on input line 135.
 (pdftex.def)             Requested size: 144.54pt x 94.86465pt.
  [4 <./img/alu.png>]
 [5 <./img/simpleAddr.png>]
-<img/aluCtrl.png, id=254, 388.45125pt x 424.58624pt>
+<img/aluCtrl.png, id=255, 388.45125pt x 424.58624pt>
 File: img/aluCtrl.png Graphic file (type png)
 <use img/aluCtrl.png>
-Package pdftex.def Info: img/aluCtrl.png  used on input line 165.
+Package pdftex.def Info: img/aluCtrl.png  used on input line 168.
 (pdftex.def)             Requested size: 144.54pt x 157.9885pt.
  [6 <./img/aluCtrl.png>]
-<img/aluMux.png, id=263, 416.55624pt x 209.78375pt>
+<img/aluMux.png, id=264, 416.55624pt x 209.78375pt>
 File: img/aluMux.png Graphic file (type png)
 <use img/aluMux.png>
-Package pdftex.def Info: img/aluMux.png  used on input line 212.
+Package pdftex.def Info: img/aluMux.png  used on input line 215.
 (pdftex.def)             Requested size: 108.405pt x 54.59369pt.
-<img/cmpStat.png, id=264, 273.02pt x 173.64874pt>
+<img/cmpStat.png, id=265, 273.02pt x 173.64874pt>
 File: img/cmpStat.png Graphic file (type png)
 <use img/cmpStat.png>
-Package pdftex.def Info: img/cmpStat.png  used on input line 245.
+Package pdftex.def Info: img/cmpStat.png  used on input line 248.
 (pdftex.def)             Requested size: 108.405pt x 68.94952pt.
  [7 <./img/aluMux.png> <./img/cmpStat.png>]
-<img/ctrlUnit.png, id=274, 332.24126pt x 417.56pt>
+<img/ctrlUnit.png, id=275, 332.24126pt x 417.56pt>
 File: img/ctrlUnit.png Graphic file (type png)
 <use img/ctrlUnit.png>
-Package pdftex.def Info: img/ctrlUnit.png  used on input line 286.
+Package pdftex.def Info: img/ctrlUnit.png  used on input line 289.
 (pdftex.def)             Requested size: 86.72377pt x 108.98991pt.
  [8 <./img/ctrlUnit.png>]
-<img/dataMem.png, id=282, 365.365pt x 246.9225pt>
+<img/dataMem.png, id=283, 365.365pt x 246.9225pt>
 File: img/dataMem.png Graphic file (type png)
 <use img/dataMem.png>
-Package pdftex.def Info: img/dataMem.png  used on input line 361.
+Package pdftex.def Info: img/dataMem.png  used on input line 364.
 (pdftex.def)             Requested size: 108.405pt x 73.26347pt.
-<img/immExt.png, id=283, 390.45876pt x 162.6075pt>
+<img/immExt.png, id=284, 390.45876pt x 162.6075pt>
 File: img/immExt.png Graphic file (type png)
 <use img/immExt.png>
-Package pdftex.def Info: img/immExt.png  used on input line 404.
+Package pdftex.def Info: img/immExt.png  used on input line 407.
 (pdftex.def)             Requested size: 144.54pt x 60.1936pt.
  [9 <./img/dataMem.png> <./img/immExt.png>]
-<img/pclmux.png, id=293, 441.65pt x 280.04625pt>
+<img/pclmux.png, id=294, 441.65pt x 280.04625pt>
 File: img/pclmux.png Graphic file (type png)
 <use img/pclmux.png>
-Package pdftex.def Info: img/pclmux.png  used on input line 435.
+Package pdftex.def Info: img/pclmux.png  used on input line 438.
 (pdftex.def)             Requested size: 144.54pt x 91.65063pt.
-<img/progCnt.png, id=294, 391.4625pt x 228.855pt>
+<img/progCnt.png, id=295, 391.4625pt x 228.855pt>
 File: img/progCnt.png Graphic file (type png)
 <use img/progCnt.png>
-Package pdftex.def Info: img/progCnt.png  used on input line 468.
+Package pdftex.def Info: img/progCnt.png  used on input line 471.
 (pdftex.def)             Requested size: 144.54pt x 84.50041pt.
-<img/progMem.png, id=295, 264.99pt x 114.4275pt>
+<img/progMem.png, id=296, 264.99pt x 114.4275pt>
 File: img/progMem.png Graphic file (type png)
 <use img/progMem.png>
-Package pdftex.def Info: img/progMem.png  used on input line 503.
+Package pdftex.def Info: img/progMem.png  used on input line 506.
 (pdftex.def)             Requested size: 144.54pt x 62.415pt.
  [10 <./img/pclmux.png> <./img/progCnt.png>]
-<img/regFile.png, id=305, 291.0875pt x 195.73125pt>
+<img/regFile.png, id=306, 291.0875pt x 195.73125pt>
 File: img/regFile.png Graphic file (type png)
 <use img/regFile.png>
-Package pdftex.def Info: img/regFile.png  used on input line 534.
+Package pdftex.def Info: img/regFile.png  used on input line 537.
 (pdftex.def)             Requested size: 115.63243pt x 77.75052pt.
  [11 <./img/progMem.png> <./img/regFile.png>]
-<img/regFileMux.png, id=315, 397.485pt x 209.78375pt>
+<img/regFileMux.png, id=316, 397.485pt x 209.78375pt>
 File: img/regFileMux.png Graphic file (type png)
 <use img/regFileMux.png>
-Package pdftex.def Info: img/regFileMux.png  used on input line 577.
+Package pdftex.def Info: img/regFileMux.png  used on input line 580.
 (pdftex.def)             Requested size: 144.54pt x 76.28712pt.
-<img/riImmExt.png, id=316, 284.06125pt x 112.42pt>
+<img/riImmExt.png, id=317, 284.06125pt x 112.42pt>
 File: img/riImmExt.png Graphic file (type png)
 <use img/riImmExt.png>
-Package pdftex.def Info: img/riImmExt.png  used on input line 614.
+Package pdftex.def Info: img/riImmExt.png  used on input line 617.
 (pdftex.def)             Requested size: 144.54pt x 57.20477pt.
  [12 <./img/regFileMux.png> <./img/riImmExt.png>]
-<img/riImmF.png, id=327, 451.6875pt x 201.75375pt>
+<img/riImmF.png, id=328, 451.6875pt x 201.75375pt>
 File: img/riImmF.png Graphic file (type png)
 <use img/riImmF.png>
-Package pdftex.def Info: img/riImmF.png  used on input line 645.
+Package pdftex.def Info: img/riImmF.png  used on input line 648.
 (pdftex.def)             Requested size: 144.54pt x 64.56252pt.
-<img/upcon.png, id=328, 506.89375pt x 187.70125pt>
+<img/upcon.png, id=329, 506.89375pt x 187.70125pt>
 File: img/upcon.png Graphic file (type png)
 <use img/upcon.png>
-Package pdftex.def Info: img/upcon.png  used on input line 678.
+Package pdftex.def Info: img/upcon.png  used on input line 681.
 (pdftex.def)             Requested size: 144.54pt x 53.52118pt.
  [13 <./img/riImmF.png> <./img/upcon.png>]
-<img/stackPtr.png, id=338, 406.51875pt x 271.0125pt>
+<img/stackPtr.png, id=339, 406.51875pt x 271.0125pt>
 File: img/stackPtr.png Graphic file (type png)
 <use img/stackPtr.png>
-Package pdftex.def Info: img/stackPtr.png  used on input line 709.
+Package pdftex.def Info: img/stackPtr.png  used on input line 712.
 (pdftex.def)             Requested size: 144.54pt x 96.3569pt.
  [14 <./img/stackPtr.png>] [15]
-<img/ctrl_unit.png, id=356, 352.31625pt x 476.78125pt>
+<img/ctrl_unit.png, id=357, 352.31625pt x 476.78125pt>
 File: img/ctrl_unit.png Graphic file (type png)
 <use img/ctrl_unit.png>
-Package pdftex.def Info: img/ctrl_unit.png  used on input line 817.
+Package pdftex.def Info: img/ctrl_unit.png  used on input line 820.
 (pdftex.def)             Requested size: 144.54pt x 195.59798pt.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 842.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 845.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 842.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 845.
  [16 <./img/ctrl_unit.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 850--851
+Underfull \hbox (badness 10000) in paragraph at lines 853--854
 
  []
 
 [17]
-Underfull \hbox (badness 10000) in paragraph at lines 901--902
+Underfull \hbox (badness 10000) in paragraph at lines 904--905
 
  []
 
 [18]
-Underfull \hbox (badness 10000) in paragraph at lines 952--953
+Underfull \hbox (badness 10000) in paragraph at lines 955--956
 
  []
 
 [19]
-Underfull \hbox (badness 10000) in paragraph at lines 1003--1004
+Underfull \hbox (badness 10000) in paragraph at lines 1006--1007
 
  []
 
 [20]
-Underfull \hbox (badness 10000) in paragraph at lines 1054--1055
+Underfull \hbox (badness 10000) in paragraph at lines 1057--1058
 
  []
 
 [21]
-Underfull \hbox (badness 10000) in paragraph at lines 1105--1106
+Underfull \hbox (badness 10000) in paragraph at lines 1108--1109
 
  []
 
 [22]
-Underfull \hbox (badness 10000) in paragraph at lines 1156--1157
+Underfull \hbox (badness 10000) in paragraph at lines 1159--1160
 
  []
 
@@ -1299,18 +1299,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 1156--1157
 [38] [39] 
 AED: lastpage setting LastPage
 [40]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2031.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2031.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2034.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2034.
  (./LabReport.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2031.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2031.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2034.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2034.
 
 Package rerunfilecheck Info: File `LabReport.out' has not changed.
 (rerunfilecheck)             Checksum: 7015EB0B8AD71588D281F7E3FE2C8326;3325.
 Package logreq Info: Writing requests to 'LabReport.run.xml'.
 \openout1 = `LabReport.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2031.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2034.
  ) 
 Here is how much of TeX's memory you used:
  16294 strings out of 494923
@@ -1319,7 +1319,7 @@ Here is how much of TeX's memory you used:
  19230 multiletter control sequences out of 15000+600000
  7776 words of font info for 30 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 49i,11n,45p,947b,742s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 49i,11n,45p,933b,742s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
@@ -1328,10 +1328,10 @@ mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmsy10.pfb>
-Output written on LabReport.pdf (41 pages, 1140620 bytes).
+Output written on LabReport.pdf (41 pages, 1140816 bytes).
 PDF statistics:
- 544 PDF objects out of 1000 (max. 8388607)
- 442 compressed objects within 5 object streams
+ 545 PDF objects out of 1000 (max. 8388607)
+ 443 compressed objects within 5 object streams
  114 named destinations out of 1000 (max. 500000)
  484 words of extra memory for PDF output out of 10000 (max. 10000000)
 
